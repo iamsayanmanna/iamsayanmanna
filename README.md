@@ -1,5 +1,5 @@
 
-# Sayan Manna
+
 
 <!-- Typing animation -->
 <p align="center">
