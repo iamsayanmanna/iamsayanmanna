@@ -116,20 +116,78 @@ Full Stack Developer • AI Explorer • Cloud Enthusiast
 </p>
 
 ---
+## 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+Modern developer portfolio with responsive UI, animations and premium design.
+
+**Tech Stack**
+
+`React` `Tailwind CSS` `JavaScript`
+
+🔗 **Live Demo:** https://portfolio-website-v1-alpha.vercel.app/
+
+📂 **Source:** https://github.com/iamsayanmanna
+
+</td>
+
+<td width="50%">
+
+### ☕ Royal Coffee
+
+Luxury coffee website inspired by Apple-style design.
+
+**Tech Stack**
+
+`React` `Tailwind CSS`
+
+📂 **Source:** https://github.com/iamsayanmanna
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 AI Chatbot
+
+Interactive chatbot with modern UI and contextual conversations.
+
+**Tech Stack**
+
+`JavaScript` `Bootstrap`
+
+📂 **Source:** https://github.com/iamsayanmanna
+
+</td>
+
+<td width="50%">
+
+### 🌦️ AI Weather App
+
+Weather dashboard with AQI, sunrise/sunset and responsive interface.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+📂 **Source:** https://github.com/iamsayanmanna
+
+</td>
+
+</tr>
+
+</table>
 
 ---
-
-## 🌟 Featured Projects
-
-| 🚀 Project | 💡 Description | ⚙️ Tech Stack |
-|------------|----------------|---------------|
-| 🌦️ [AI Weather App](https://github.com/iamsayanmanna) | Smart weather app with AQI, AI suggestions, sunrise/sunset & modern responsive UI | HTML, CSS, JavaScript |
-| 🤖 [AI Chatbot](https://github.com/iamsayanmanna) | Interactive chatbot with contextual memory and modern interface | JavaScript, Bootstrap |
-| 📊 [AutoAnalyst AI](https://github.com/iamsayanmanna) | AI-powered analytics platform with ML workflows and visualization | Python, Flask |
-| ☕ [ROYAL Coffee Website](https://github.com/iamsayanmanna) | Luxury Apple-style coffee brand website with premium UI/UX | React, Tailwind |
-| 🌐 [Portfolio Website](https://github.com/iamsayanmanna) | Modern developer portfolio with smooth UI and animations | React, JavaScript |
-
 ---
 
 ## 📊 GitHub Analytics
