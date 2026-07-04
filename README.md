@@ -71,11 +71,11 @@ BCA Student • Full-Stack Developer • MERN Stack Developer • AI/ML Explorer
 
 | 🚀 Project | 💡 Description | ⚙️ Tech Stack |
 |------------|----------------|---------------|
-| 🌦️ [AI Weather App](https://github.com/heysayanmanna) | Smart weather app with AQI, AI suggestions, sunrise/sunset & modern responsive UI | HTML, CSS, JavaScript |
-| 🤖 [AI Chatbot](https://github.com/heysayanmanna) | Interactive chatbot with contextual memory and modern interface | JavaScript, Bootstrap |
-| 📊 [AutoAnalyst AI](https://github.com/heysayanmanna) | AI-powered analytics platform with ML workflows and visualization | Python, Flask |
-| ☕ [ROYAL Coffee Website](https://github.com/heysayanmanna) | Luxury Apple-style coffee brand website with premium UI/UX | React, Tailwind |
-| 🌐 [Portfolio Website](https://github.com/heysayanmanna) | Modern developer portfolio with smooth UI and animations | React, JavaScript |
+| 🌦️ [AI Weather App](https://github.com/iamsayanmanna) | Smart weather app with AQI, AI suggestions, sunrise/sunset & modern responsive UI | HTML, CSS, JavaScript |
+| 🤖 [AI Chatbot](https://github.com/iamsayanmanna) | Interactive chatbot with contextual memory and modern interface | JavaScript, Bootstrap |
+| 📊 [AutoAnalyst AI](https://github.com/iamsayanmanna) | AI-powered analytics platform with ML workflows and visualization | Python, Flask |
+| ☕ [ROYAL Coffee Website](https://github.com/iamsayanmanna) | Luxury Apple-style coffee brand website with premium UI/UX | React, Tailwind |
+| 🌐 [Portfolio Website](https://github.com/iamsayanmanna) | Modern developer portfolio with smooth UI and animations | React, JavaScript |
 
 ---
 
@@ -83,15 +83,15 @@ BCA Student • Full-Stack Developer • MERN Stack Developer • AI/ML Explorer
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=heysayanmanna&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamsayanmanna&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=heysayanmanna&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=iamsayanmanna&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heysayanmanna&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsayanmanna&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -106,7 +106,7 @@ BCA Student • Full-Stack Developer • MERN Stack Developer • AI/ML Explorer
 
 ## 📈 Contribution Graph
 
-[![Sayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heysayanmanna&theme=tokyo-night&hide_border=true)](https://github.com/heysayanmanna)
+[![Sayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamsayanmanna&theme=tokyo-night&hide_border=true)](https://github.com/iamsayanmanna)
 
 ---
 
@@ -114,7 +114,7 @@ BCA Student • Full-Stack Developer • MERN Stack Developer • AI/ML Explorer
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=heysayanmanna&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iamsayanmanna&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
 
 </p>
 
@@ -128,7 +128,7 @@ BCA Student • Full-Stack Developer • MERN Stack Developer • AI/ML Explorer
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/heysayanmanna" target="_blank">
+<a href="https://github.com/iamsayanmanna" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -142,7 +142,7 @@ BCA Student • Full-Stack Developer • MERN Stack Developer • AI/ML Explorer
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=heysayanmanna&style=for-the-badge&color=2563eb"/>
+<img src="https://komarev.com/ghpvc/?username=iamsayanmanna&style=for-the-badge&color=2563eb"/>
 
 </p>
 
