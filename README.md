@@ -1,5 +1,7 @@
 
-
+<p align="center">
+<img src="banner.png" width="100%" alt="Sayan Manna Banner"/>
+</p>
 
 <!-- Typing animation -->
 <p align="center">
