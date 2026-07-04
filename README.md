@@ -189,12 +189,11 @@ Weather dashboard with AQI, sunrise/sunset and responsive interface.
 
 ---
 
-
 ## 📊 GitHub Dashboard
 
-> 🚀 My GitHub profile is automatically updated with development metrics, contribution activity, achievements and coding statistics.
-
----
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Metrics" width="100%">
+</p>
 
 ---
 
