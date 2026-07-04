@@ -188,23 +188,13 @@ Weather dashboard with AQI, sunrise/sunset and responsive interface.
 </table>
 
 ---
+
+
+## 📊 GitHub Dashboard
+
+> 🚀 My GitHub profile is automatically updated with development metrics, contribution activity, achievements and coding statistics.
+
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamsayanmanna&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=iamsayanmanna&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsayanmanna&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
