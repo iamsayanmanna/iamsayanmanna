@@ -197,12 +197,6 @@ Weather dashboard with AQI, sunrise/sunset and responsive interface.
 
 ---
 
-## ⚡ Current GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 ## 📈 Contribution Graph
 
