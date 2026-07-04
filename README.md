@@ -48,19 +48,43 @@ Full Stack Developer • AI Explorer • Cloud Enthusiast
 
 ---
 
-## 💡 About Me
+## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Developer" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 Pursuing **Bachelor of Computer Applications** at **Bhawanipur Global Campus, Kolkata**
-- 💻 Skilled in **JavaScript, React, Node.js, MongoDB, Python, C & DSA**
-- 🚀 Passionate about **Full-Stack Development, AI-powered Applications & Modern UI/UX**
-- 🌱 Currently learning **Advanced MERN Stack, Backend Development & AI Integrations**
-- 💼 Open to opportunities in **Software Development, Full-Stack Engineering & AI/ML**
-- ⚡ Love creating **premium SaaS-style web experiences**
-- 📫 Reach me at: **sayanmanna.in@gmail.com**
+🎓 **BCA Student** at **Bhawanipur Global Campus, Kolkata**
 
-<br><br><br><br>
+💻 Passionate about building **modern, scalable and user-centric web applications**
+
+🚀 Currently focusing on:
+
+- ⚛️ Full Stack Development (MERN)
+- 🤖 Artificial Intelligence & Machine Learning
+- ☁️ Cloud Computing
+- 📊 Data Structures & Algorithms
+- 🎨 Modern UI/UX Engineering
+
+🌱 **Currently Learning**
+
+- Advanced React
+- Node.js & Express
+- Backend Architecture
+- AI Integration
+- System Design
+
+🎯 **2026 Goals**
+
+- ✅ Build production-ready full-stack applications
+- ✅ Contribute to Open Source
+- ✅ Master MERN Stack
+- ✅ Learn Cloud Technologies
+- ✅ Land a Software Engineering Internship
+
+📫 **Email:** **sayanmanna.in@gmail.com**
+
+<br clear="right"/>
+
+---
 
 ---
 
