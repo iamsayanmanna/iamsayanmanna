@@ -3,18 +3,46 @@
 
 <!-- Typing animation -->
 <p align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Sayan+Manna;Full-Stack+Developer;MERN+Stack+Developer;AI%2FML+%26+Data+Science+Explorer;Building+Modern+Digital+Experiences)](https://git.io/typing-svg)
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Sayan+Manna;Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Building+Modern+Digital+Experiences;Always+Learning+Something+New" />
 
 </p>
 
-<h1 align="center">Hi 👋, I'm Sayan Manna</h1>
+<h1 align="center">
+Hi 👋, I'm Sayan Manna
+</h1>
 
 <h3 align="center">
-  
-BCA Student • Full-Stack Developer • MERN Stack Developer • AI/ML Explorer
-
+Full Stack Developer • AI Explorer • Cloud Enthusiast
 </h3>
+
+<p align="center">
+🎓 BCA Student &nbsp;•&nbsp;
+💻 Open Source Learner &nbsp;•&nbsp;
+🚀 Building Scalable Web Apps
+</p>
+
+<p align="center">
+
+<a href="https://portfolio-website-v1-alpha.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/iamsayanmanna/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sayanmanna.in@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/iamsayanmanna">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 ---
 
