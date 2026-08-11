@@ -213,15 +213,7 @@ A Python automation utility built with Regex to extract, filter, validate, and p
 
 ---
 
-## 🏆 GitHub Achievements
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iamsayanmanna&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
-
----
 
 ## 📬 Connect With Me
 
