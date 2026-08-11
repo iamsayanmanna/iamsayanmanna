@@ -116,6 +116,7 @@ Full Stack Developer • AI Explorer • Cloud Enthusiast
 </p>
 
 ---
+---
 ## 🚀 Featured Projects
 
 <table>
@@ -123,31 +124,35 @@ Full Stack Developer • AI Explorer • Cloud Enthusiast
 
 <td width="50%">
 
-### 🌐 Portfolio Website
 
-Modern developer portfolio with responsive UI, animations and premium design.
+
+###  Portfolio Website
+
+A modern developer portfolio focused on responsive design, interactive UI, smooth animations, and a premium user experience.
 
 **Tech Stack**
 
 `React` `Tailwind CSS` `JavaScript`
 
-🔗 **Live Demo:** https://portfolio-website-v1-alpha.vercel.app/
+**Live Demo:** https://portfolio-website-v1-alpha.vercel.app/
 
-📂 **Source:** https://github.com/iamsayanmanna
+**Source:** https://github.com/iamsayanmanna
 
 </td>
 
 <td width="50%">
 
-### ☕ Royal Coffee
+<img src="./assets/projects/hangman.png" width="100%" alt="Hangman Game"/>
 
-Luxury coffee website inspired by Apple-style design.
+###  Hangman Game
+
+A Python-based word guessing game featuring ASCII visuals, lives management, score tracking, and replay functionality.
 
 **Tech Stack**
 
-`React` `Tailwind CSS`
+`Python`
 
-📂 **Source:** https://github.com/iamsayanmanna
+ **Source:** https://github.com/iamsayanmanna
 
 </td>
 
@@ -157,39 +162,43 @@ Luxury coffee website inspired by Apple-style design.
 
 <td width="50%">
 
-### 🤖 AI Chatbot
 
-Interactive chatbot with modern UI and contextual conversations.
+
+###  Stock Portfolio Tracker
+
+A Python-based automation tool designed to track stock investments, analyze portfolio performance, and calculate returns efficiently.
 
 **Tech Stack**
 
-`JavaScript` `Bootstrap`
+`Python`
 
-📂 **Source:** https://github.com/iamsayanmanna
+ **Source:** https://github.com/iamsayanmanna
 
 </td>
 
 <td width="50%">
 
-### 🌦️ AI Weather App
 
-Weather dashboard with AQI, sunrise/sunset and responsive interface.
+
+###  Email Extractor Tool
+
+A Python automation utility built with Regex to extract, filter, validate, and process email addresses efficiently.
 
 **Tech Stack**
 
-`HTML` `CSS` `JavaScript`
+`Python` `Regex`
 
-📂 **Source:** https://github.com/iamsayanmanna
+ **Source:** https://github.com/iamsayanmanna
 
 </td>
 
 </tr>
-
 </table>
 
 ---
+---
 
-## 📊 GitHub Dashboard
+##  GitHub Dashboard
 
 <p align="center">
   <img src="./metrics.svg" alt="GitHub Metrics" width="100%">
