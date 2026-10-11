@@ -146,9 +146,6 @@ To grow as a software developer by building useful applications, applying analyt
 
 ---
 
-
----
-
 <h2 align="center">Featured Projects</h2>
 
 <p align="center">
@@ -159,7 +156,7 @@ To grow as a software developer by building useful applications, applying analyt
   <tr>
     <td width="50%" valign="top">
 
-### Developer Portfolio
+### 1. Developer Portfolio
 
 A responsive personal website showcasing my development projects and professional profile.
 
@@ -170,7 +167,7 @@ A responsive personal website showcasing my development projects and professiona
     </td>
     <td width="50%" valign="top">
 
-### Air Quality Research
+### 2. Air Quality Research
 
 A research project exploring air-quality data, visualizations, and machine-learning model reliability during extreme pollution episodes.
 
@@ -183,9 +180,9 @@ A research project exploring air-quality data, visualizations, and machine-learn
   <tr>
     <td width="50%" valign="top">
 
-### MAUSAM — Weather Application
+### 3. MAUSAM — Weather Application
 
-A personalized weather application project focused on location-aware forecasts and relevant weather alerts.
+A personalized weather application focused on location-aware forecasts and relevant weather alerts.
 
 **Focus:** `Weather Data` `Personalization` `Application Development`
 
@@ -194,7 +191,7 @@ A personalized weather application project focused on location-aware forecasts a
     </td>
     <td width="50%" valign="top">
 
-### Stock Portfolio Tracker
+### 4. Stock Portfolio Tracker
 
 A Python project designed to track stock investments and organize portfolio-related calculations.
 
@@ -213,6 +210,7 @@ A Python project designed to track stock investments and organize portfolio-rela
 </p>
 
 ---
+
 
 <h2 align="center">GitHub Analytics</h2>
 
