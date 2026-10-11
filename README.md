@@ -272,11 +272,6 @@ A Python project designed to track stock investments and organize portfolio-rela
     </td>
   </tr>
 </table>
-
----
-
-
-
 ---
 
 <p align="center">
