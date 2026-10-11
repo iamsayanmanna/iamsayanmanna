@@ -144,6 +144,7 @@ To grow as a software developer by building useful applications, applying analyt
   <i>Continuously expanding my toolkit through hands-on development and project work.</i>
 </p>
 
+
 ---
 
 <h2 align="center">Featured Projects</h2>
@@ -152,62 +153,67 @@ To grow as a software developer by building useful applications, applying analyt
   Selected projects across software development, data analytics, and Python.
 </p>
 
+<div align="center">
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### 1. Developer Portfolio
+<h3>1. Developer Portfolio</h3>
 
 A responsive personal website showcasing my development projects and professional profile.
 
-**Tech Stack:** `React` `Tailwind CSS` `JavaScript`
+<strong>Tech Stack:</strong> React · Tailwind CSS · JavaScript
 
-[Live Demo](https://portfolio-website-v1-alpha.vercel.app/) · [Source Code](https://github.com/iamsayanmanna/portfolio-website)
+<a href="https://portfolio-website-v1-alpha.vercel.app/">Live Demo</a> ·
+<a href="https://github.com/iamsayanmanna/portfolio-website">Source Code</a>
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-### 2. Air Quality Research
+<h3>2. Air Quality Research</h3>
 
 A research project exploring air-quality data, visualizations, and machine-learning model reliability during extreme pollution episodes.
 
-**Focus:** `Python` `Data Analytics` `Machine Learning`
+<strong>Focus:</strong> Python · Data Analytics · Machine Learning
 
-[Source Code](https://github.com/iamsayanmanna/Air-Quality-Research)
+<a href="https://github.com/iamsayanmanna/Air-Quality-Research">Source Code</a>
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 3. MAUSAM — Weather Application
+<h3>3. MAUSAM — Weather Application</h3>
 
 A personalized weather application focused on location-aware forecasts and relevant weather alerts.
 
-**Focus:** `Weather Data` `Personalization` `Application Development`
+<strong>Focus:</strong> Weather Data · Personalization · Application Development
 
-[Mobile App](https://github.com/iamsayanmanna/Mausam-App) · [Backend](https://github.com/iamsayanmanna/mausam-backend)
+<a href="https://github.com/iamsayanmanna/Mausam-App">Mobile App</a> ·
+<a href="https://github.com/iamsayanmanna/mausam-backend">Backend</a>
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-### 4. Stock Portfolio Tracker
+<h3>4. Stock Portfolio Tracker</h3>
 
 A Python project designed to track stock investments and organize portfolio-related calculations.
 
-**Tech Stack:** `Python`
+<strong>Tech Stack:</strong> Python
 
-[Source Code](https://github.com/iamsayanmanna/CodeAlpha_Stock_Portfolio_Tracker)
+<a href="https://github.com/iamsayanmanna/CodeAlpha_Stock_Portfolio_Tracker">Source Code</a>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
+</div>
 
 <p align="center">
   <a href="https://github.com/iamsayanmanna?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
   </a>
 </p>
+
 
 ---
 
